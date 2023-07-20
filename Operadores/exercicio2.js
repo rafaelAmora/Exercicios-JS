@@ -1,0 +1,1 @@
+// Escreva uma função chamada calcularIdade, que receba o ano atual e o ano de nascimento como argumentos e retorne a idade da pessoa.

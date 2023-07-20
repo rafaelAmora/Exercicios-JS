@@ -1,0 +1,2 @@
+// Exercício 1: Verificação de números pares
+// Escreva uma função em JavaScript que receba um número como entrada e verifique se ele é par ou ímpar. A função deve retornar "Par" se o número for par e "Ímpar" se o número for ímpar.
